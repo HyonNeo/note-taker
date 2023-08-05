@@ -4,7 +4,6 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Video](#video)
   * [Questions](#questions)
   * [Credits](#credits)
     
@@ -12,7 +11,7 @@
   With this page your going to be able to write and save notes, and once you dont need the notes you can delete them
   
   ## Installation
-  Open the page
+  Open the page : https://aqueous-lake-11782-33362d9e8ca0.herokuapp.com/notes
   
   ## Usage
   Press the button get started, it will take you to another page
